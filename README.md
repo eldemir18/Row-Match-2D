@@ -4,4 +4,4 @@ Casual puzzle game
 
 ## Game Preview
 
-https://swater23.itch.io/blackjack
+https://swater23.itch.io/rowmatch
